@@ -1,2 +1,0 @@
-# pino
-Pengguna Facebook
